@@ -1,14 +1,14 @@
 # learning
-'''
+```
 #include<iostream>
 using namespace std;
 int main()
 {
   cout<<"hello,world"<<endl;
 }
-'''
- 
-##learning1
+```
+**********
+###learning1
 >the greatest of love
 
 ***我爱中国***
